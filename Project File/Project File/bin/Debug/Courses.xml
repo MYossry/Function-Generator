@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Table name="Courses">
+  <Courses>
+    <Id datatype="float">1</Id>
+    <CourseName datatype="string">Math</CourseName>
+    <Doctor datatype="string">Hassan</Doctor>
+  <Department datatype="string">Scientific</Department>
+    <Hours datatype="float">36</Hours>
+  </Courses>
+  <Courses>
+    <Id datatype="float">2</Id>
+    <CourseName datatype="string">logic</CourseName>
+    <Doctor datatype="string">Manal</Doctor>
+    <Department datatype="string">Scientific</Department>
+    <Hours datatype="float">24</Hours>
+    </Courses>
+      <Courses>
+      <Id datatype="float">3</Id>
+        <CourseName datatype="string">File Organisation</CourseName>
+      <Doctor datatype="string">Wedad</Doctor>
+      <Department datatype="string">System</Department>
+      <Hours datatype="float">36</Hours>
+    </Courses>
+    <Courses>
+      <Id datatype="float">4</Id>
+      <CourseName datatype="string">OOP</CourseName>
+      <Doctor datatype="string">Hamdy</Doctor>
+      <Department datatype="string">Computer Science</Department>
+      <Hours datatype="float">30</Hours>
+      </Courses>
+        <Courses>
+        <Id datatype="float">5</Id>
+          <CourseName datatype="string">English</CourseName>
+        <Doctor datatype="string">Aml</Doctor>
+        <Department datatype="string">System</Department>
+        <Hours datatype="float">16</Hours>
+      </Courses>
+  <Courses>
+    <Id datatype="float">6</Id>
+    <CourseName datatype="string">Management</CourseName>
+    <Doctor datatype="string">Shreen</Doctor>
+    <Department datatype="string">Computer Science</Department>
+    <Hours datatype="float">36</Hours>
+  </Courses>
+  <Courses>
+    <Id datatype="float">6</Id>
+    <CourseName datatype="string">Prpablity</CourseName>
+    <Doctor datatype="string">Ramdan</Doctor>
+    <Department datatype="string">Scientific</Department>
+    <Hours datatype="float">30</Hours>
+  </Courses>
+  <Courses>
+    <Id datatype="float">7</Id>
+    <CourseName datatype="string">Electronic</CourseName>
+    <Doctor datatype="string">Sara</Doctor>
+    <Department datatype="string">System</Department>
+    <Hours datatype="float">36</Hours>
+  </Courses>
+  <Courses>
+  <Id datatype="float">8</Id>
+  <CourseName datatype="string">\Physics</CourseName>
+  <Doctor datatype="string">Ramy</Doctor>
+  <Department datatype="string">Computer Science</Department>
+  <Hours datatype="float">16</Hours>
+  </Courses>
+
+</Table>

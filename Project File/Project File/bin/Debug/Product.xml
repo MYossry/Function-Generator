@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Table name="Proudct">
+  <Product>
+    <Id datatype="float">1</Id>
+    <Name  datatype="string">Apple</Name>
+    <Quantity datatype="float">5</Quantity>
+    <Price datatype="float">10</Price>
+  </Product>
+  <Product>
+    <Id datatype="float">2</Id>
+    <Name  datatype="string">Banana</Name>
+    <Quantity datatype="float">8</Quantity>
+    <Price datatype="float">20</Price>
+  </Product>
+  <Product>
+    <Id datatype="float">3</Id>
+    <Name datatype="string">Orange</Name>
+    <Quantity datatype="float">7</Quantity>
+    <Price datatype="float">30</Price>
+  </Product>
+  <Product>
+    <Id datatype="float">3</Id>
+    <Name datatype="string">Orange</Name>
+    <Quantity datatype="float">7</Quantity>
+    <Price datatype="float">20</Price>
+  </Product>
+  <Product>
+    <Id datatype="float">4</Id>
+    <Name datatype="string">Banana</Name>
+    <Quantity datatype="float">3</Quantity>
+    <Price datatype="float">25</Price>
+  </Product>
+  <Product>
+    <Id datatype="float">5</Id>
+    <Name datatype="string">Watermelon</Name>
+    <Quantity datatype="float">10</Quantity>
+    <Price datatype="float">5</Price>
+  </Product>
+  <Product>
+    <Id datatype="float">6</Id>
+    <Name datatype="string">Carrot</Name>
+    <Quantity datatype="float">9</Quantity>
+    <Price datatype="float">25</Price>
+  </Product>
+  <Product>
+    <Id datatype="float">7</Id>
+    <Name datatype="string">Milk</Name>
+    <Quantity datatype="float">40</Quantity>
+    <Price datatype="float">13</Price>
+  </Product>
+  <Product>
+    <Id datatype="float">8</Id>
+    <Name datatype="string">Banana</Name>
+    <Quantity datatype="float">3</Quantity>
+    <Price datatype="float">25</Price>
+  </Product>
+  <Product>
+    <Id datatype="float">9</Id>
+    <Name datatype="string">Meat</Name>
+    <Quantity datatype="float">50</Quantity>
+    <Price datatype="float">30</Price>
+  </Product>
+
+</Table>

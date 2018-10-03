@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Table name="function">
+	<SUM datatype="float"></SUM>
+	<Count datatype="float"></Count>
+  <Count datatype="string"></Count>
+	<Avreage datatype="float"></Avreage>
+	<Max datatype="float"></Max>
+	<Min datatype="float"></Min>
+	<Search datatype="float"></Search>
+  <Search datatype="string"></Search>
+	
+</Table>	
